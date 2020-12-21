@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xmliff="http://schemas.android.com/apk/res/android">
+    <string name="app_name">केवल Java</string>
+    <string name="toppings">टॉपिंग</string>
+    <string name="order_summery">आदेश सारांश</string>
+    <string name="quantity">मात्रा</string>
+    <string name="order_summary_name">नाम: <xmliff:g id="name" example="Keshav">%s</xmliff:g></string>
+</resources>
